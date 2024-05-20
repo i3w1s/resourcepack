@@ -1,0 +1,373 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/groups/defaultplayer.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\u018A"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/groups/kingprefix.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\u019C"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/groups/masterprefix.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\u019D"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/groups/knightprefix.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\u019F"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/groups/legendaprefix.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\u018F"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/groups/lordprefix.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\u017D"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/groups/witherprefix.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\u015F"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/groups/zeusprefix.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\u013C"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/groups/dragonprefix.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\u010F"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/groups/paladinprefix.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\u017A"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/groups/slideprefix.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\u0298"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/groups/adminprefix.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\u02A8"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/groups/summerprefix.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\u03F8"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/groups/logo.png",
+            "ascent": 0,
+            "height": 30,
+            "chars": [
+                "\u03EF"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/groups/slidemoney.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                "\u0586"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/zone/zone_your.png",
+            "ascent": 9,
+            "height": 12,
+            "chars": [
+                "\u01F7"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/zone/zone_other.png",
+            "ascent": 9,
+            "height": 12,
+            "chars": [
+                "\u0100"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/zone/zone_free.png",
+            "ascent": 9,
+            "height": 12,
+            "chars": [
+                "\u017F"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/npc/auction.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u04FF"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/npc/buyer.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u05FF"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/npc/genblocks.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u05CD"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/npc/battlepass.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u05CE"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/npc/alchemist.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u05CF"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/npc/casino.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u04FB"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/npc/customization.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u04F9"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/npc/groups.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u04F7"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/npc/menu.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u04F5"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/npc/pvparena.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u04F3"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/npc/subscribe.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u04ED"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/npc/freedonate.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u04EC"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/npc/kazna.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u05F5"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/npc/navigation.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u05F8"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/icons/money.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u04EA"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/icons/dollar.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u04E6"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/icons/profile.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u04D0"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/icons/cases.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u04A7"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/icons/clock.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u04A6"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/icons/pvp.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u0214"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/icons/bomb.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\u0213"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:ui/menu_footer.png",
+            "ascent": 7,
+            "height": 110,
+            "chars": [
+                "\u627F"
+            ]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:ui/menu_header.png",
+            "ascent": 109,
+            "height": 110,
+            "chars": [
+                "\u627E"
+            ]
+        }
+    ]
+}
